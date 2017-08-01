@@ -1,0 +1,18 @@
+S001:What are the Key concepts of OOP:inheritance:abscent:abstraction:ambiguos:Polymorphism:true:false:true:false:true:Q001
+S001:What is OOP?:Concept:Nothing:Disorder:Habit:Game:true:false:false:false:false:Q002
+S001:What is Code Redundancy?:Reuse:Misuse:Over Use:Lack Use:Never Use:false:false:true:false:false:Q003
+S001:What is this?:sa:sd:sd:saddf:sdfdsfds:true:true:false:false:false:Q004
+S001:What Dkjsd'sdsdjksnds$sdsjdlskadoudlksadj$sadjsadkidsknsd$dsakjdsd8iwqdjlskadmsa$sdkjshdiuehdskmnsald$sdkjshdiuksnds,akd$askdjsd,mnsamdns:sa:sd:sd:saddf:sdfdsfds:true:true:false:false:false:Q005
+S002:asdjhgdaskjdhsadsa$dsdskjhdskladjsa$dsdkjsadsajdsadsa$dsadkjsadkjsaldksd$sadkjsdsakdjsamd$sadsajjdsaldksad:sa:sd:sd:saddf:sdfdsfds:true:false:true:false:false:Q006
+S002:sadkygaksjdsd$dsadkjsd:sa:sd:sd:saddf:sdfdsfds:true:false:true:false:false:Q007
+S002:xzcsdasd:sa:sd:sd:saddf:sdfdsfds:true:false:true:false:false:Q008
+S002:cxvcesdsd:sa:sd:sd:saddf:sdfdsfds:true:false:true:false:false:Q009
+S003:asdcdsdwqdsad:sa:sd:sd:saddf:sdfdsfds:true:false:true:false:false:Q010
+S003:asdcdsdwqdsadsdssdsdsds$sdsad$sd$sd$sad$sadsa$dsadsadsads$adsad$sdsadsadsad:sa:sd:sd:saddf:sdfdsfds:true:false:true:false:false:Q011
+S003:asdcdsdwqdsadsdssdsdsds$sdsad$sd$ssaddsad$sdsad$sds$dsaddddddddddddddsad$assssssssssssss:sa:sd:sd:saddf:sdfdsfds:true:false:true:false:false:Q012
+S001:What is my favourite Color?:Red:Green:Blues:Yellow:Purple:false:true:false:true:false:Q013
+S001:What is my favourite Singer:Red:Green:Blues:Yellow:Purple:false:true:false:true:false:Q014
+S001:What is my favourite Wear?:Red:Green:dsad:Yellow:Purple:false:true:false:true:false:Q015
+S001:What F$asdsdx:Red:Green:dsad:Yellow:Purple:false:true:false:true:false:Q016
+S002:What the hell is this?:Donno:Donno:Donno:Donno:Donno:false:true:false:true:false:Q017
+
